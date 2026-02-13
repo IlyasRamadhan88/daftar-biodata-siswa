@@ -3,7 +3,8 @@
    JK     : Laki - Laki  
    Agama  : Islam  
    TTL    : Ambon, 19 Agustus 2003  
-   Alamat : Jln. Loa Bakung RT.21 No.04  
+   Alamat : Jln. Loa Bakung RT.21 No.04<br>
+   
 2. Nama   : Erna Mulyani  
    NIM    : H202000006  
    JK     : Perempuan  
@@ -30,4 +31,4 @@
    JK     : Laki - Laki  
    Agama  : Islam  
    TTL    : Ambon, 19 Agustus 2003  
-   Alamat : Jln. Jakarta RT.14 No.33  
+   Alamat : Jln. Jakarta RT.14 No.33
